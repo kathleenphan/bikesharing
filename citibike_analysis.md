@@ -1,0 +1,8 @@
+# Citi Bike Analysis
+This is a summary of the analytic work that I did with the NYC Citi Bike data and data for NY and Des Moines.
+## Des Moines and NYC Analysis
+The bike program is operational in NY the task is to use the data from NY and apply to Des Moines, then to convince investors to commit to a bike program in Des Moines. The NYC bike data also showed a lot of characterisitics about the type of person participating in the bike program such as: age, gender and trip duration. The NY data showed that out of all of the cities in New York, NYC had the most business for the bike share program. This correlated with the population of NYC versus the other cities as well as the number McDonald's restaurants. The density of McDonald's restaurants shows a "busy-ness" to the city in a sense. Des Moines showed the exact same number of McDonald's restaurants in Iowa. This is a good indicator that Des Moines is the right city in Iowa for the bike sharing program.
+### Demographics
+After comparing the NY bike data with the McDonald's data of NYC and Des Moines I went ahead and checked the population demographics of NYC's bike customer with Des Moines' overall population. The most prominent customers in NYC were females between the ages of 18 - 45, closely followed by males between the same afe range. Des Moines overall population percentages had the same demographic as the NYC bike customers with 18 - 45 year olds females being the most prevalent. The market is very similar and should be targeted for a bike program in Des Moines. 
+
+[link to dashboard](LINK GOES HERE "https://public.tableau.com/profile/kathleen.phan#!/vizhome/BikeSharingProgramforDesMoines/BikeSharingProgramforDesMoines?publish=yes")
